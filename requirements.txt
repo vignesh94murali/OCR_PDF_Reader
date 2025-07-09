@@ -1,0 +1,41 @@
+# langchain_core
+# langchain_community
+# langgraph
+
+# numpy
+# pandas
+# streamlit
+
+# # WARNING(pigar): some manual fixes might be required as pigar has detected duplicate requirements for the same import name (possibly for different submodules).
+# # WARNING(pigar): the following duplicate requirements are for the import name: dotenv
+# django-dotenv
+# dotenv
+# ginja-dotenv
+# py-dottenv
+# python-dotenv
+# python-dotenv-yaml
+# python_env
+# # WARNING(pigar): the following duplicate requirements are for the import name: langchain
+# gigachain
+# langchain
+# langchain_ibis
+# langchain_1111_Dev_cerebrum
+# # WARNING(pigar): the following duplicate requirements are for the import name: langchain_community
+# gigachain_community
+# langchain_community
+# # WARNING(pigar): the following duplicate requirements are for the import name: langchain_core
+# gigachain_core
+# langchain_core
+
+# langsmith
+
+# # WARNING(pigar): the following duplicate requirements are for the import name: langchain_groq
+# # gigachain_groq
+# langchain_groq
+# # WARNING(pigar): the following duplicate requirements are for the import name: langchain_text_splitters
+# gigachain_text_splitters
+# langchain_text_splitters
+# # WARNING(pigar): the following duplicate requirements are for the import name: langgraph
+# gigagraph   
+# langgraph
+
